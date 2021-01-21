@@ -30,8 +30,9 @@ Test your createMenuItems function by doing the following:
   
   For example: createMenuItem("pizza",5,"lunch") would return this as the object: {name:"Pizza",price:5,category:"lunch"}
 */
-// console.log(createMenuItem('tacos', 8, 'lunch'));
 
+// function createMenuItem("pizza", 5, "lunch")
+console.log(createMenuItem);
 
 
 /* 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 2: 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
@@ -46,15 +47,6 @@ Using the burger object below do the following:
 
   For example: burger.discount("teacher") would return 13.5 and burger.discount("public") would return 16.2
 */
-
-// export const burger = {
-//   name: "Burger", 
-//   price: 18, 
-//   category: "Lunch", 
-//   /discount: function(string){
-//     if string matches ... what is the discount; 
-//   }
-// }
 
 export const burger = {
   name: "Burger", 
