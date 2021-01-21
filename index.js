@@ -32,7 +32,9 @@ Test your createMenuItems function by doing the following:
 */
 
 // function createMenuItem("pizza", 5, "lunch")
-console.log(createMenuItem);
+function createMenuItem("cinnabun", 5, "breakfast");
+function createMenuItem("pizza", 5, "lunch");
+function createMenuItem("salad", 3, "dinner");
 
 
 /* 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 2: 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
