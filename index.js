@@ -32,9 +32,9 @@ Test your createMenuItems function by doing the following:
 */
 
 // function createMenuItem("pizza", 5, "lunch")
-function createMenuItem("cinnabun", 5, "breakfast");
-function createMenuItem("pizza", 5, "lunch");
-function createMenuItem("salad", 3, "dinner");
+console.log(createMenuItem('carrots', 5, 'breakfast');
+console.log(createMenuItem('pizza', 5, 'lunch');
+console.log(createMenuItem('salad', 3, 'dinner');
 
 
 /* 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 2: 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
@@ -81,6 +81,9 @@ Using the reviews array above:
   1. log only Julius' feedback to the console - no function needed 
 */
 
+reviews[6]["feedback"]
+
+// console.log(reviews());
 
 
 
@@ -90,7 +93,9 @@ Using the reviews array above do the following: (no function needed)
   2. log the whole array to the console, make sure the new review is inside of it   
 */
 
+reviews.push({name: "Eric", rating: 5, feedback: "Fantastic!"})
 
+return reviews;
 
 /* 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 5: 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 
 Reyna's feedback is missing! Use what you know to do the following: (no function needed) 
