@@ -103,7 +103,8 @@ Reyna's feedback is missing! Use what you know to do the following: (no function
   2. log the reviews array to the console to check your work
 */
 
-
+reviews.push({name: Reyna, rating: 3.5, feedback: 'this place is chill with really cool people, great for getting work done on weekdays'});
+return reviews;
 
 
 
@@ -118,7 +119,7 @@ Use the getReviewByIndex function below to do the following:
 */
 
 
-function getReviewByIndex(/*Your code here*/) {
+function getReviewByIndex(ohRay) {
   /*Your code here*/
 }
 
